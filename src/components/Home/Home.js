@@ -79,8 +79,6 @@ const Home = () => {
         </Fragment>
     );
 
-    console.log(snackbarMsg)
-
     return (
         <Fragment>
             <Snackbar
