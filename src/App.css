@@ -1,0 +1,10 @@
+
+.text-center{
+    text-align: center;
+}
+
+.editAllCountrySelect{
+    padding: 10px 3px !important;
+    color: #000 !important;
+    min-width: 10px !important;
+}
